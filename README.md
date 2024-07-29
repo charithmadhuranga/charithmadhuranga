@@ -6,4 +6,6 @@
   <img width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charithmadhuranga)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Charith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charithmadhuranga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
