@@ -16,41 +16,106 @@
   <a href="https://github.com/charithmadhuranga?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
+
+
+
+
 <details open> 
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+  
+  
+  <details open> 
+          <summary><h3>📕 Favourite iot platform</h3></summary>
+
   <p align="left">
-    <a href="https://github.com/freol35241/ltss"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=freol35241&repo=ltss&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+    <a href="https://github.com/simpleiot/simpleiot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simpleiot&repo=simpleiot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
-            <p align="left">
-    <a href="https://github.com/dusty-nv/jetson-containers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dusty-nv&repo=jetson-containers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
-  </p>
-    <p align="left">
-    <a href="https://github.com/blakeblackshear/frigate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=blakeblackshear&repo=frigate&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
-  </p>
-          <p align="left">
+    
+</details>
+
+
+
+
+  <details open> 
+          <summary><h3>📕 Favourite Edge computing platform</h3></summary>
+
+  <p align="left">
     <a href="https://github.com/edgexfoundry/edgex-go"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=edgexfoundry&repo=edgex-go&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
-      <p align="left">
+
+<p align="left">
+    <a href="https://github.com/fledge-iot/fledge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fledge-iot&repo=fledge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+  </p>
+  </details>
+
+
+
+  
+  <details open> 
+          <summary><h3>📕 Favourite Container Deploying and management platform</h3></summary>
+            <p align="left">
+    <a href="https://github.com/IceWhaleTech/CasaOS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=IceWhaleTech&repo=CasaOS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+  </p>
+  <p align="left">
+    <a href="https://github.com/open-horizon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=open-horizon&repo=anax&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+  </p>
+      
+  </details>
+
+
+  
+  <details open> 
+          <summary><h3>📕 Favourite automation platform</h3></summary>
+
+  <p align="left">
     <a href="https://github.com/home-assistant/core"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=core&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
-    </p>
+    
+  </details>
+
+
+
+      
+  <details open> 
+          <summary><h3>📕 Favourite home assistant Intergrations</h3></summary>
+          <p align="left">
+    <a href="https://github.com/freol35241/ltss"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=freol35241&repo=ltss&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+  </p>
+    
+  </details>
+
+
+
+  <details open> 
+          <summary><h3>📕 Favourite Data visualization and analytics platform</h3></summary>
+
+  </p>
       <p align="left">
     <a href="https://github.com/apache/superset"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=apache&repo=superset&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
-        <p align="left">
-    <a href="https://github.com/IceWhaleTech/CasaOS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=IceWhaleTech&repo=CasaOS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+    
+  </details>
+
+
+
+  <details open> 
+          <summary><h3>📕 Favourite Ai platform</h3></summary>
+
+  <p align="left">
+      <a href="https://github.com/dusty-nv/jetson-containers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dusty-nv&repo=jetson-      containers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
-        <p align="left">
-    <a href="https://github.com/simpleiot/simpleiot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simpleiot&repo=simpleiot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+
+  <p align="left">
+    <a href="https://github.com/blakeblackshear/frigate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=blakeblackshear&repo=frigate&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
-          <p align="left">
-    <a href="https://github.com/fledge-iot/fledge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fledge-iot&repo=fledge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
-  </p>
-            <p align="left">
-    <a href="https://github.com/open-horizon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=open-horizon&repo=anax&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
-  </p>
+    
+  </details>
+
+
+       
+            
 </details>
 
 Like My Work?
