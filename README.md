@@ -30,7 +30,7 @@
     <a href="https://github.com/blakeblackshear/frigate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=blakeblackshear&repo=frigate&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
           <p align="left">
-    <a href="https://github.com/ollama/ollama/tree/main"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ollama&repo=ollama&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+    <a href="https://github.com/edgexfoundry/edgex-go"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=edgexfoundry&repo=edgex-go&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
       <p align="left">
     <a href="https://github.com/home-assistant/core"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=core&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
@@ -47,6 +47,9 @@
   </p>
           <p align="left">
     <a href="https://github.com/fledge-iot/fledge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fledge-iot&repo=fledge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+  </p>
+            <p align="left">
+    <a href="https://github.com/open-horizon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=open-horizon&repo=anax&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
 </details>
 
