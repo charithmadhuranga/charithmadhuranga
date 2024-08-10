@@ -23,20 +23,20 @@
   <p align="left">
     <a href="https://github.com/freol35241/ltss"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=freol35241&repo=ltss&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
-            <p align="right">
+            <p align="left">
     <a href="https://github.com/dusty-nv/jetson-containers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dusty-nv&repo=jetson-containers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
     <p align="left">
     <a href="https://github.com/blakeblackshear/frigate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=blakeblackshear&repo=frigate&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
-          <p align="right">
+          <p align="left">
     <a href="https://github.com/ollama/ollama/tree/main"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ollama&repo=ollama&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
       <p align="left">
     <a href="https://github.com/home-assistant/core"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=core&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
     </p>
-      <p align="right">
+      <p align="left">
     <a href="https://github.com/apache/superset"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=apache&repo=superset&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
         <p align="left">
