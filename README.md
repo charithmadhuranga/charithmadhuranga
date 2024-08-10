@@ -27,7 +27,7 @@
   
   
   <details open> 
-          <summary><h3>📕 Favourite iot platform</h3></summary>
+          <summary><h3>📕 iot platform</h3></summary>
 
   <p align="left">
     <a href="https://github.com/simpleiot/simpleiot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simpleiot&repo=simpleiot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
@@ -39,7 +39,7 @@
 
 
   <details open> 
-          <summary><h3>📕 Favourite Edge computing platform</h3></summary>
+          <summary><h3>📕 Edge computing platform</h3></summary>
 
   <p align="left">
     <a href="https://github.com/edgexfoundry/edgex-go"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=edgexfoundry&repo=edgex-go&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
@@ -54,7 +54,7 @@
 
   
   <details open> 
-          <summary><h3>📕 Favourite Container Deploying and management platform</h3></summary>
+          <summary><h3>📕 Container Deploying and management platform</h3></summary>
             <p align="left">
     <a href="https://github.com/IceWhaleTech/CasaOS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=IceWhaleTech&repo=CasaOS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
@@ -67,7 +67,7 @@
 
   
   <details open> 
-          <summary><h3>📕 Favourite automation platform</h3></summary>
+          <summary><h3>📕 home automation platform</h3></summary>
 
   <p align="left">
     <a href="https://github.com/home-assistant/core"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=core&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
@@ -79,7 +79,7 @@
 
       
   <details open> 
-          <summary><h3>📕 Favourite home assistant Intergrations</h3></summary>
+          <summary><h3>📕 home assistant Intergrations</h3></summary>
           <p align="left">
     <a href="https://github.com/freol35241/ltss"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=freol35241&repo=ltss&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
   </p>
@@ -89,7 +89,7 @@
 
 
   <details open> 
-          <summary><h3>📕 Favourite Data visualization and analytics platform</h3></summary>
+          <summary><h3>📕 Data visualization and analytics platform</h3></summary>
 
   </p>
       <p align="left">
@@ -101,7 +101,7 @@
 
 
   <details open> 
-          <summary><h3>📕 Favourite Ai platform</h3></summary>
+          <summary><h3>📕 Ai platform</h3></summary>
 
 
   <p align="left">
