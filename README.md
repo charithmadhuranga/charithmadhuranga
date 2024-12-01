@@ -2,6 +2,8 @@
 
 ![Charith's github stats](https://github-readme-stats.vercel.app/api?username=charithmadhuranga&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+<a href="https://app.daily.dev/charithwijesundara"><img src="https://api.daily.dev/devcards/v2/duKyXQzacM0jrokLIS45V.png?type=default&r=jq8" width="356" alt="charith wijesundara's Dev Card"/></a>
+
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
