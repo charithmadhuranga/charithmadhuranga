@@ -92,19 +92,56 @@
     <a href="https://github.com/esphome/esphome"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esphome&repo=esphome&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
   </p>
   </details>
-
-
-
       
   <details open> 
           <summary><h3>📕 home assistant Intergrations</h3></summary>
           <p align="left">
     <a href="https://github.com/freol35241/ltss"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=freol35241&repo=ltss&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
   </p>
+            <p align="left">
+    <a href="https://github.com/nielsfaber/scheduler-component"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nielsfaber&repo=scheduler-component&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
+  </p>
+              <p align="left">
+    <a href="https://github.com/blakeblackshear/frigate-hass-integration"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=blakeblackshear&repo=frigate-hass-integration&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
+  </p>
+                <p align="left">
+    <a href="https://github.com/zachowj/hass-node-red"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zachowj&repo=hass-node-red&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
+  </p>
+    
+  </details>
+
+  <details open> 
+          <summary><h3>📕 home assistant Custom Cards</h3></summary>
+          <p align="left">
+    <a href="https://github.com/nielsfaber/scheduler-card"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nielsfaber&repo=scheduler-card&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
+  </p>
+            <p align="left">
+    <a href="https://github.com/dermotduffy/frigate-hass-card"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dermotduffy&repo=frigate-hass-card&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
+  </p>
     
   </details>
 
 
+  <details open> 
+          <summary><h3>📕 No Code or Low Code platform</h3></summary>
+          <p align="left">
+    <a href="https://github.com/node-red/node-red"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=node-red&repo=node-red&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
+  </p>
+            <p align="left">
+    <a href="https://github.com/Kazuhito00/Image-Processing-Node-Editor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kazuhito00&repo=Image-Processing-Node-Editor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
+  </p>
+    
+  </details>
+
+  
+  <details open> 
+          <summary><h3>📕NodeRed Custom Nodes</h3></summary>
+          <p align="left">
+    <a href="https://github.com/zachowj/node-red-contrib-home-assistant-websocket"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zachowj&repo=node-red-contrib-home-assistant-websocket&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
+  </p>
+    
+  </details>
+  
 
   <details open> 
           <summary><h3>📕 Data visualization and analytics platform</h3></summary>
