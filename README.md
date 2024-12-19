@@ -74,9 +74,6 @@
           <summary><h3>📕 Container Deploying and management platform</h3></summary>
 
   <p align="left">
-    <a href="https://github.com/open-horizon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=open-horizon&repo=anax&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
-  </p>
-    <p align="left">
     <a href="https://github.com/home-assistant/supervisor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=supervisor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
   </p>
       
