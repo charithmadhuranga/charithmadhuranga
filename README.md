@@ -47,7 +47,7 @@
           <summary><h3>📕 iot platform</h3></summary>
 
   <p align="left">
-    <a href="https://github.com/simpleiot/simpleiot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simpleiot&repo=simpleiot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+    <a href="https://github.com/simpleiot/simpleiot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simpleiot&repo=simpleiot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
   </p>
     
 </details>
@@ -59,11 +59,11 @@
           <summary><h3>📕 Edge computing platform</h3></summary>
 
   <p align="left">
-    <a href="https://github.com/edgexfoundry/edgex-go"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=edgexfoundry&repo=edgex-go&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+    <a href="https://github.com/edgexfoundry/edgex-go"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=edgexfoundry&repo=edgex-go&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
   </p>
 
 <p align="left">
-    <a href="https://github.com/fledge-iot/fledge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fledge-iot&repo=fledge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+    <a href="https://github.com/fledge-iot/fledge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fledge-iot&repo=fledge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
   </p>
   </details>
 
@@ -73,10 +73,10 @@
   <details open> 
           <summary><h3>📕 Container Deploying and management platform</h3></summary>
             <p align="left">
-    <a href="https://github.com/IceWhaleTech/CasaOS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=IceWhaleTech&repo=CasaOS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+    <a href="https://github.com/IceWhaleTech/CasaOS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=IceWhaleTech&repo=CasaOS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
   </p>
   <p align="left">
-    <a href="https://github.com/open-horizon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=open-horizon&repo=anax&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+    <a href="https://github.com/open-horizon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=open-horizon&repo=anax&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
   </p>
       
   </details>
@@ -87,7 +87,7 @@
           <summary><h3>📕 home automation platform</h3></summary>
 
   <p align="left">
-    <a href="https://github.com/home-assistant/core"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=core&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+    <a href="https://github.com/home-assistant/core"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=core&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
   </p>
     
   </details>
@@ -98,7 +98,7 @@
   <details open> 
           <summary><h3>📕 home assistant Intergrations</h3></summary>
           <p align="left">
-    <a href="https://github.com/freol35241/ltss"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=freol35241&repo=ltss&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+    <a href="https://github.com/freol35241/ltss"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=freol35241&repo=ltss&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
   </p>
     
   </details>
@@ -110,7 +110,7 @@
 
   </p>
       <p align="left">
-    <a href="https://github.com/apache/superset"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=apache&repo=superset&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+    <a href="https://github.com/apache/superset"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=apache&repo=superset&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
   </p>
     
   </details>
@@ -122,16 +122,33 @@
 
 
   <p align="left">
-    <a href="https://github.com/dusty-nv/jetson-containers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dusty-nv&repo=jetson-containers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+    <a href="https://github.com/dusty-nv/jetson-containers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dusty-nv&repo=jetson-containers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
   </p>
 
   <p align="left">
-    <a href="https://github.com/blakeblackshear/frigate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=blakeblackshear&repo=frigate&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hass"></a>
+    <a href="https://github.com/blakeblackshear/frigate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=blakeblackshear&repo=frigate&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
   </p>
     
   </details>
 
+  <details open> 
+          <summary><h3>📕 Robotics</h3></summary>
 
+
+  <p align="left">
+    <a href="https://github.com/zauberzeug/nicegui"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zauberzeug-nv&repo=nicegui&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
+  </p>
+
+  <p align="left">
+    <a href="https://github.com/zauberzeug/rosys"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zauberzeug&repo=rosys&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
+  </p>
+    <p align="left">
+    <a href="https://github.com/zauberzeug/lizard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zauberzeug&repo=lizard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
+  </p>
+  <p align="left">
+    <a href="https://github.com/zauberzeug/field_friend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zauberzeug&repo=field_friend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="hass"></a>
+  </p>
+  </details>
        
             
 </details>
