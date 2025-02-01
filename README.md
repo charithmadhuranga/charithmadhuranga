@@ -4,6 +4,12 @@
 
 <a href="https://app.daily.dev/charithwijesundara"><img src="https://api.daily.dev/devcards/v2/duKyXQzacM0jrokLIS45V.png?type=default&r=jq8" width="356" alt="charith wijesundara's Dev Card"/></a>
 
+# If you need to hire me contact me in upwork
+
+### [upwork](https://www.upwork.com/freelancers/~01007ee0c80e88b753?mp_source=share)
+
+
+
 <details open>
   <summary><h2>My Blog Site Repo</h2></summary>
 
@@ -14,9 +20,6 @@
   </p>
 
 </details>
-
-## If you need to hire me contact me in upwork
-### [upwork](https://www.upwork.com/freelancers/~01007ee0c80e88b753?mp_source=share)
 
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
