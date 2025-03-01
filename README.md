@@ -37,31 +37,6 @@
 </details>
 
 <details open>
-  <summary><h2>📘 Devops Tools Practice</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-      <a href="https://github.com/charithmadhuranga/automation-good-practices"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=automation-good-practices&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-          <a href="https://github.com/charithmadhuranga/Devops-Tools-Documentation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Devops-Tools-Documentation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-              <a href="https://github.com/charithmadhuranga/kubernetes-hand-on"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=kubernetes-hand-on&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
-
-</details>
-
-<details open>
-  <summary><h2>📘 Languages Practice Projects javascript/Typescript</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-      <a href="https://github.com/charithmadhuranga/JavaScript-Learn-Repo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=JavaScript-Learn-Repo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-          <a href="https://github.com/charithmadhuranga/TypeScript-Learn-Repo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=TypeScript-Learn-Repo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
-
-</details>
-
-<details open>
   <summary><h2>📘 Projects ReactJS/NextJS</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -75,7 +50,7 @@
 
 
 <details open>
-  <summary><h2>📘 Languages Practice Projects Ruby</h2></summary>
+  <summary><h2>📘 Languages Practice Projects Ruby and Ruby on Rails</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -108,13 +83,6 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
   <p align="left">
-
-<details open>
-  <summary><h2>📘 Python Design Patterns & Algorithems </h2></summary>
-<p align="left">
-  <a href="https://github.com/charithmadhuranga/Python-Learn-Repo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Python-Learn-Repo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-
- </details>
 
 <details open>
   <summary><h2>📘 Python Django Projects </h2></summary>
