@@ -4,7 +4,7 @@
 
 <a href="https://app.daily.dev/charithwijesundara"><img src="https://api.daily.dev/devcards/v2/duKyXQzacM0jrokLIS45V.png?type=default&r=jq8" width="356" alt="charith wijesundara's Dev Card"/></a>
 
-## Language I love
+## Languages I love
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
