@@ -42,8 +42,7 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <h3>HMS(Hospital Management System) Software Documentation</h3>
-    <p>Tech Used</p>
-    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+    <p>Tech Used Django,python,boostrap 5</p>
       <a href="https://github.com/charithmadhuranga/HMS-Djangio-Docs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=HMS-Djangio-Docs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
