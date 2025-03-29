@@ -43,7 +43,7 @@
   <p align="left">
     <h3>HMS(Hospital Management System) & its Software Documentation</h3>
     <p>Tech Used Django,python,boostrap 5</p>
-    <p>Buy it <a href="https://www.sellanycode.com/item.php?id=22729">@sellanycode</a><br><a href="https://www.codester.com/items/54397/doctor-channeling-system-doctor-booking-system">@Codester</a></p>
+    <p>Buy it <a href="https://www.sellanycode.com/item.php?id=22729">@sellanycode</a>OR<a href="https://www.codester.com/items/54397/doctor-channeling-system-doctor-booking-system">@Codester</a></p>
       <a href="https://github.com/charithmadhuranga/HMS-Djangio-Docs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=HMS-Djangio-Docs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <!--       <a href="https://github.com/charithmadhuranga/HMS-Django"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=HMS-Django&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> -->
   </p>
