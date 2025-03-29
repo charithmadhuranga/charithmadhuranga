@@ -30,13 +30,13 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# If you need to hire me contact me in upwork
+## If you need to hire me contact me in upwork
 
-### [upwork](https://www.upwork.com/freelancers/~01007ee0c80e88b753?mp_source=share)
+### :muscle: [upwork](https://www.upwork.com/freelancers/~01007ee0c80e88b753?mp_source=share)
 
 
 <details open>
-  <summary><h2>Products I have Developed and their Documentations</h2></summary>
+  <summary><h1>:point_right:Products I have Developed and their Documentations</h1></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -92,7 +92,7 @@
 
 
 <details open>
-  <summary><h2>📘 Languages Practice Projects Ruby and Ruby on Rails</h2></summary>
+  <summary><h2>📘 Projects Ruby and Ruby on Rails</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -106,7 +106,7 @@
 <details open>
 
   
-  <summary><h2>📘 Languages Practice Projects Golang</h2></summary>
+  <summary><h2>📘 Projects Golang</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -121,7 +121,7 @@
 
 
 <details open>
-  <summary><h2>📘 Languages Practice Projects Python</h2></summary>
+  <summary><h2>📘 Projects Python</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -129,14 +129,14 @@
   <p align="left">
 
 <details open>
-  <summary><h2>📘 Python Django Projects </h2></summary>
+  <summary><h2>📘 Projects Django  </h2></summary>
 <p align="left">
 <a href="https://github.com/charithmadhuranga/Django-CRM"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-CRM&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/charithmadhuranga/Django-Ecommerse"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-Ecommerse&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
  </details>
 
  <details open>
-  <summary><h2>📘 Python Flask Projects </h2></summary>
+  <summary><h2>📘 Projects Flask  </h2></summary>
 <p align="left">
 <a href="https://github.com/charithmadhuranga/Flatmates-Bill-web-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Flatmates-Bill-web-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
