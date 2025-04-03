@@ -74,6 +74,16 @@
 <a href="https://github.com/charithmadhuranga?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 </details>
+<details open>
+  <summary><h2>📘 LLM/AI/M.Vision Experiments and Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+      <a href="https://github.com/charithmadhuranga/LLM-Experiments"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=LLM-Experiments&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>       
+  </p>
+
+</details>
 
 <details open>
   <summary><h2>📘 Projects ReactJS/NextJS</h2></summary>
