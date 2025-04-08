@@ -25,7 +25,8 @@
     I'm a passionate Software Engineer with expertise in Ecommerce,IOT,Edge computing and Machine Learning. Currently focused on developing innovative solutions at the intersection of AI and real-world applications. I love turning complex data into actionable insights and building scalable systems that solve Real world Problems.
   </p>
 </div>
-
+<br/>
+<br/>
 
 <a href="https://app.daily.dev/charithwijesundara"><img src="https://api.daily.dev/devcards/v2/duKyXQzacM0jrokLIS45V.png?type=default&r=jq8" width="356" alt="charith wijesundara's Dev Card"/></a>
 
