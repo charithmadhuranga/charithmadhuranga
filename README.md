@@ -4,6 +4,9 @@
   <i>Let's connect and build something amazing together! 🚀</i>
 </div>
 
+<br/>
+<br/>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=charithmadhuranga&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
