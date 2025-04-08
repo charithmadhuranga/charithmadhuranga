@@ -10,7 +10,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=charithmadhuranga&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Charith's github stats](https://github-readme-stats.vercel.app/api?username=charithmadhuranga&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<details open>
+<summary><h2>📊 GitHub Stats</h2></summary>
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=charithmadhuranga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Charith's GitHub Stats"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=charithmadhuranga&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charithmadhuranga&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</details>
+
 
 <a href="https://app.daily.dev/charithwijesundara"><img src="https://api.daily.dev/devcards/v2/duKyXQzacM0jrokLIS45V.png?type=default&r=jq8" width="356" alt="charith wijesundara's Dev Card"/></a>
 
