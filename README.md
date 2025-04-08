@@ -19,6 +19,13 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charithmadhuranga&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </details>
 
+<div align="center">
+  <h2>💫 About Me</h2>
+  <p>
+    I'm a passionate Software Engineer with expertise in Ecommerce,IOT,Edge computing and Machine Learning. Currently focused on developing innovative solutions at the intersection of AI and real-world applications. I love turning complex data into actionable insights and building scalable systems that solve Real world Problems.
+  </p>
+</div>
+
 
 <a href="https://app.daily.dev/charithwijesundara"><img src="https://api.daily.dev/devcards/v2/duKyXQzacM0jrokLIS45V.png?type=default&r=jq8" width="356" alt="charith wijesundara's Dev Card"/></a>
 
