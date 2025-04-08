@@ -72,18 +72,6 @@
 </details>
 
 
-
-<details open>
-  <summary><h2>My Blog Site Repo</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-      <a href="https://github.com/charithmadhuranga/charithmadhuranga.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=charithmadhuranga.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
-
-</details>
-
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
@@ -123,19 +111,6 @@
 
 </details>
 
-
-<details open>
-  <summary><h2>📘 Projects Ruby and Ruby on Rails</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-      <a href="https://github.com/charithmadhuranga/Ruby-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Ruby-Learn&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-            <a href="https://github.com/charithmadhuranga/Reddit-Clone-Ruby-on-Rails"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Reddit-Clone-Ruby-on-Rails&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-
-  </p>
-
-</details>
 <details open>
 
   
