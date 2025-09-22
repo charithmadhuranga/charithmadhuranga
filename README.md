@@ -51,10 +51,6 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## If you need to hire me contact me in upwork
-
-### :muscle: [upwork](https://www.upwork.com/freelancers/~01007ee0c80e88b753?mp_source=share)
-
 
 <details open>
   <summary><h1>:point_right:Products I have Developed and their Documentations</h1></summary>
