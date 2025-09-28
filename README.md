@@ -100,11 +100,9 @@
 <a href="https://github.com/charithmadhuranga/Django-CRM"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-CRM&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/charithmadhuranga/Django-Ecommerse"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-Ecommerse&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/charithmadhuranga/py-commander"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=py-commander&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/charithmadhuranga/Flatmates-Bill-web-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Flatmates-Bill-web-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
  </p>
 
-<p align="left">
-<a href="https://github.com/charithmadhuranga/Flatmates-Bill-web-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Flatmates-Bill-web-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
- </p>
 
 <p align="left">
 <a href="https://github.com/charithmadhuranga/automated-email-sender"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=automated-email-sender&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
