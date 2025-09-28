@@ -53,22 +53,6 @@
 
 
 <details open>
-  <summary><h1>:point_right:Products I have Developed and their Documentations</h1></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <h3>:star::star:HMS(Hospital Management System) & its Software Documentation:star::star:</h3>
-    <p>Tech Used Django,python,boostrap 5</p>
-    <p><b>Buy it </b><a href="https://shop.slengineer.work">@SlENGINEER SHOP</a>&nbsp;&nbsp;</p>
-      <a href="https://github.com/charithmadhuranga/HMS-Djangio-Docs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=HMS-Djangio-Docs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-<!--       <a href="https://github.com/charithmadhuranga/HMS-Django"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=HMS-Django&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> -->
-  </p>
-
-</details>
-
-
-<details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -76,6 +60,7 @@
   <p align="left">
     <a href="https://github.com/charithmadhuranga/filmpisso"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=filmpisso&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/charithmadhuranga/filmpisso-extensions"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=filmpisso-extensions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/charithmadhuranga/taskmanager"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=taskmanager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
   </p>
 
