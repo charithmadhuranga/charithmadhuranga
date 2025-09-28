@@ -87,14 +87,7 @@
 <details open>
   <summary><h2>📘 Projects Python</h2></summary>
 
-  <p align="left">
 
-
-  <details open>
-  <summary><h2>📘 LLM/AI/M.Vision Experiments and Projects</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
       <a href="https://github.com/charithmadhuranga/LLM-Experiments"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=LLM-Experiments&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>       
      <a href="https://github.com/charithmadhuranga/lanchain-deepseek-sqlitedb-bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=lanchain-deepseek-sqlitedb-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -102,23 +95,22 @@
     <a href="https://github.com/charithmadhuranga/AI-Agents-Crash-Course-2-Days"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=AI-Agents-Crash-Course-2-Days&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
-</details>
-
-<details open>
 <p align="left">
     <a href="https://github.com/charithmadhuranga/WebScraping-Experiment"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=WebScraping-Experiment&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>    
 <a href="https://github.com/charithmadhuranga/Django-CRM"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-CRM&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/charithmadhuranga/Django-Ecommerse"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-Ecommerse&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+ </p>
 
 <p align="left">
 <a href="https://github.com/charithmadhuranga/Flatmates-Bill-web-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Flatmates-Bill-web-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+ </p>
 
 <p align="left">
 <a href="https://github.com/charithmadhuranga/automated-email-sender"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=automated-email-sender&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/charithmadhuranga/geometry-game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=geometry-game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 <a href="https://github.com/charithmadhuranga/flatmate-bill-generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=flatmate-bill-generator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/charithmadhuranga/Math-Painting"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Math-Painting&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-
+ </p>
 
 <p align="left">
 <a href="https://github.com/charithmadhuranga/Advanced-Train-Ticketing-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Advanced-Train-Ticketing-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -128,7 +120,8 @@
 
   </p>
 
-  </p>
+
+ 
 </details>
 
 
