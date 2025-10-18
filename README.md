@@ -154,6 +154,7 @@
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/charith1994" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://ko-fi.com/slengineer" target="_blank"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/685a387a23c2a4d131f1484c_Name%20Tag.gif" alt="kofi support" height="60px" width="217px" ></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charithmadhuranga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
