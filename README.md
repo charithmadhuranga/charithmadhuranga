@@ -22,7 +22,7 @@
 <div align="center">
   <h2>💫 About Me</h2>
   <p>
-    I'm a passionate Software Engineer with expertise in Ecommerce,IOT,Edge computing and Machine Learning. Currently focused on developing innovative solutions at the intersection of AI and real-world applications. I love turning complex data into actionable insights and building scalable systems that solve Real world Problems.
+    I'm a passionate Software Engineer with expertise in Ecommerce,IOT,Edge computing,Machine Learning and Ai Agents. Currently focused on developing innovative solutions at the intersection of AI and real-world applications. I love turning complex data into actionable insights and building scalable systems that solve Real world Problems.
   </p>
 </div>
 <br/>
