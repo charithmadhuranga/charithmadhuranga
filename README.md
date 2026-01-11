@@ -38,32 +38,52 @@
 
 
 <details open>
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary>
+    <h2 align="center">📘 My Top Open Source Projects</h2>
+  </summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/charithmadhuranga/filmpisso"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=filmpisso&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/charithmadhuranga/filmpisso-extensions"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=filmpisso-extensions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-     <a href="https://github.com/charithmadhuranga/taskmanager"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=taskmanager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
-  
-<p align="left">
-  <a href="https://github.com/charithmadhuranga/ebay-products-market-analizer-advanced"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=ebay-products-market-analizer-advanced&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <br/>
 
-  <a href="https://github.com/charithmadhuranga/agentic-ai-shopper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=agentic-ai-shopper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-          
-  <a href="https://github.com/charithmadhuranga/AI-Agriculture-Advisor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=AI-Agriculture-Advisor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
-<p align="left">
-  <a href="https://github.com/charithmadhuranga/wedding-budget-planner-ai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=wedding-budget-planner-ai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-                              
-  <a href="https://github.com/charithmadhuranga/Django-Shopee"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-Shopee&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <div align="center">
 
-  </p>
+  <a href="https://github.com/charithmadhuranga/filmpisso">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=filmpisso&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/charithmadhuranga/filmpisso-extensions">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=filmpisso-extensions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/charithmadhuranga/taskmanager">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=taskmanager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
 
-<a href="https://github.com/charithmadhuranga?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <br/><br/>
 
+  <a href="https://github.com/charithmadhuranga/ebay-products-market-analizer-advanced">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=ebay-products-market-analizer-advanced&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/charithmadhuranga/agentic-ai-shopper">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=agentic-ai-shopper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/charithmadhuranga/AI-Agriculture-Advisor">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=AI-Agriculture-Advisor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/charithmadhuranga/wedding-budget-planner-ai">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=wedding-budget-planner-ai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/charithmadhuranga/Django-Shopee">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-Shopee&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/charithmadhuranga?tab=repositories&sort=stargazers">
+      <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-1F222E?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+
+  </div>
 </details>
 
 
