@@ -94,6 +94,18 @@
 
   <br/><br/>
 
+  <a href="https://github.com/charithmadhuranga/py-commander">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=py-commander&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/charithmadhuranga/CrewAI-Langgraph-Projects">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=CrewAI-Langgraph-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+        <a href="https://github.com/charithmadhuranga/chatbot-with-memory">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=chatbot-with-memory&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+
+  <br/><br/>
+
   <a href="https://github.com/charithmadhuranga?tab=repositories&sort=stargazers">
       <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-1F222E?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
