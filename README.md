@@ -85,8 +85,8 @@
   <a href="https://github.com/charithmadhuranga/lanchain-deepseek-sqlitedb-bot">
       <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=lanchain-deepseek-sqlitedb-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a>
-    <a href="https://github.com/charithmadhuranga/Django-HMS">
-      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-HMS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    <a href="https://github.com/charithmadhuranga/agentiq">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=agentiq&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a>
         <a href="https://github.com/charithmadhuranga/Library-Management-System">
       <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Library-Management-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
