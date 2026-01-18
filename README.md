@@ -106,6 +106,18 @@
 
   <br/><br/>
 
+  <a href="https://github.com/charithmadhuranga/MarketMind-AI">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=MarketMind-AI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/charithmadhuranga/langgraph-hn-analyzer">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=langgraph-hn-analyzer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+        <a href="https://github.com/charithmadhuranga/StockUp">
+      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=StockUp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+
+  <br/><br/>
+
   <a href="https://github.com/charithmadhuranga?tab=repositories&sort=stargazers">
       <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-1F222E?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
