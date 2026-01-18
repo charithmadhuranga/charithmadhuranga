@@ -6,15 +6,6 @@
 
 <br/>
 <br/>
-
-
-<details open>
-<summary><h2>📊 GitHub Stats</h2></summary>
-<div align="center">
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charithmadhuranga&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</details>
-
 <div align="center">
   <h2>💫 About Me</h2>
   <p>
