@@ -8,13 +8,9 @@
 <br/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=charithmadhuranga&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <details open>
 <summary><h2>📊 GitHub Stats</h2></summary>
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=charithmadhuranga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Charith's GitHub Stats"/>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=charithmadhuranga&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <br/>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charithmadhuranga&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </details>
