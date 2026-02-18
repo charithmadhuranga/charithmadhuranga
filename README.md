@@ -12,7 +12,6 @@
 
   <div>
     <a href="https://techwithcharith.work"><b>Blog</b></a> •
-    <a href="https://www.arokalife.com"><b>Aroka Life</b></a> •
     <a href="https://www.linkedin.com/in/YOUR_LINK"><b>LinkedIn</b></a>
   </div>
 </div>
@@ -22,9 +21,8 @@
 ## 💫 About Me
 I specialize in developing innovative solutions at the intersection of **AI Agents, Ecommerce, and IoT**. My current focus is on building scalable agentic workflows and edge computing systems that solve tangible problems in agriculture, finance, and retail.
 
-- 🔭 **Current Project:** Building an Intelligent CRM SaaS and Agriculture Assistant.
-- 🧠 **Expertise:** Agentic AI (LangGraph, CrewAI), Machine Learning, and Full-stack Architecture.
-- ⚡ **Fun Fact:** I love turning complex data into actionable insights through Python and Go.
+- 🧠 **Expertise:** Agentic AI (LangGraph, CrewAI,LLamaindex), Machine Learning, and Full-stack Architecture.
+- ⚡ **Fun Fact:** I love turning complex data into actionable insights through Python.
 
 ---
 
@@ -36,10 +34,10 @@ I specialize in developing innovative solutions at the intersection of **AI Agen
       <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
       <br />Python
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" />
       <br />Go
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JS" />
       <br />JavaScript
@@ -57,86 +55,69 @@ I specialize in developing innovative solutions at the intersection of **AI Agen
       <br />React
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
-      <br />Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="Postgres" />
-      <br />PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" />
-      <br />Supabase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-      <br />Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="Github" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=raspberrypi" width="40" height="40" alt="IoT" />
-      <br />IoT/Edge
-    </td>
-  </tr>
 </table>
 
 ---
 
-## 📘 Top Open Source Projects
+<details open>
+  <summary>
+    <h2 align="center">📘 My Open Source Ecosystem</h2>
+  </summary>
 
-### 🤖 AI Agents & LLMs
-<div align="center">
-  <a href="https://github.com/charithmadhuranga/agentiq">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=agentiq&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/charithmadhuranga/CrewAI-Langgraph-Projects">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=CrewAI-Langgraph-Projects&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/charithmadhuranga/MarketMind-AI">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=MarketMind-AI&theme=tokyonight&show_owner=true" />
-  </a>
-</div>
+  <br/>
 
-### 🛒 Ecommerce & Market Analysis
-<div align="center">
-  <a href="https://github.com/charithmadhuranga/ebay-products-market-analizer-advanced">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=ebay-products-market-analizer-advanced&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/charithmadhuranga/agentic-ai-shopper">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=agentic-ai-shopper&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/charithmadhuranga/Django-Shopee">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-Shopee&theme=tokyonight&show_owner=true" />
-  </a>
-</div>
+  ### 🤖 Agentic AI & Intelligent Systems
+  *Advanced automation using LangGraph, CrewAI, and LlamaIndex.*
 
-### 🌿 Specialized Solutions (Agri & IoT)
-<div align="center">
-  <a href="https://github.com/charithmadhuranga/AI-Agriculture-Advisor">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=AI-Agriculture-Advisor&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/charithmadhuranga/py-commander">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=charithmadhuranga&repo=py-commander&theme=tokyonight&show_owner=true" />
-  </a>
-</div>
+  <div align="center">
+    <a href="https://github.com/charithmadhuranga/agentiq"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=agentiq&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/CrewAI-Langgraph-Projects"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=CrewAI-Langgraph-Projects&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/lanchain-deepseek-sqlitedb-bot"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=lanchain-deepseek-sqlitedb-bot&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/chatbot-with-memory"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=chatbot-with-memory&theme=tokyonight" /></a>
+  </div>
 
-<p align="center">
-  <a href="https://github.com/charithmadhuranga?tab=repositories">
-    <img src="https://img.shields.io/badge/-View%20All%20Repositories-1F222E?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+  ### 📊 Market Analysis & Ecommerce Tools
+  *AI-driven insights for global marketplaces.*
 
+  <div align="center">
+    <a href="https://github.com/charithmadhuranga/MarketMind-AI"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=MarketMind-AI&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/ebay-products-market-analizer-advanced"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=ebay-products-market-analizer-advanced&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/agentic-ai-shopper"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=agentic-ai-shopper&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/langgraph-hn-analyzer"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=langgraph-hn-analyzer&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/Django-Shopee"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-Shopee&theme=tokyonight" /></a>
+  </div>
+
+  ### 🌿 Industry Specific Solutions (Agri/FinTech)
+  *Real-world AI applications for agriculture and finance.*
+
+  <div align="center">
+    <a href="https://github.com/charithmadhuranga/AI-Agriculture-Advisor"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=AI-Agriculture-Advisor&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/StockMarket-AI"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=StockMarket-AI&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/StockUp"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=StockUp&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/wedding-budget-planner-ai"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=wedding-budget-planner-ai&theme=tokyonight" /></a>
+  </div>
+
+  ### 🛠️ Core Engineering & Management Systems
+  *Full-stack applications and Python utilities.*
+
+  <div align="center">
+    <a href="https://github.com/charithmadhuranga/filmpisso"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=filmpisso&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/filmpisso-extensions"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=filmpisso-extensions&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/py-commander"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=py-commander&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/taskmanager"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=taskmanager&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/Django-LMS"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-LMS&theme=tokyonight" /></a>
+    <a href="https://github.com/charithmadhuranga/Library-Management-System"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=Library-Management-System&theme=tokyonight" /></a>
+  </div>
+
+</details>
 ---
 
-## 📊 Performance & Stats
+## 📊 Performance & Coding Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charithmadhuranga&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikhuge&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=charithmadhuranga&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=nikhuge&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 </div>
 
 ---
