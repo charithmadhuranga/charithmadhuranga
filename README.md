@@ -11,18 +11,18 @@
   *Building intelligent systems that bridge the gap between complex data and real-world solutions.*
 
   <div>
-    <a href="https://techwithcharith.work"><b>Blog</b></a> •
-    <a href="https://www.linkedin.com/in/YOUR_LINK"><b>LinkedIn</b></a>
+    <a href="https://techwithcharith.work"><b>Tech Blog</b></a> •
+    <a href="https://www.linkedin.com/in/charithmadhuranga"><b>LinkedIn</b></a>
   </div>
 </div>
 
 <br/>
 
 ## 💫 About Me
-I specialize in developing innovative solutions at the intersection of **AI Agents, Ecommerce, and IoT**. My current focus is on building scalable agentic workflows and edge computing systems that solve tangible problems in agriculture, finance, and retail.
+I specialize in developing innovative solutions at the intersection of **AI Agents, Ecommerce, and IoT**. I am passionate about building scalable agentic workflows and edge computing systems that solve tangible problems in agriculture, finance, and retail.
 
-- 🧠 **Expertise:** Agentic AI (LangGraph, CrewAI,LLamaindex), Machine Learning, and Full-stack Architecture.
-- ⚡ **Fun Fact:** I love turning complex data into actionable insights through Python.
+- 🧠 **Expertise:** Agentic AI (LangGraph, CrewAI), Machine Learning, and Full-stack Architecture.
+- ⚡ **Tech Philosophy:** Turning complex data into actionable insights and scalable systems.
 
 ---
 
@@ -59,64 +59,36 @@ I specialize in developing innovative solutions at the intersection of **AI Agen
 
 ---
 
-<details open>
-  <summary>
-    <h2 align="center">📘 My Open Source Ecosystem</h2>
-  </summary>
+## 📘 My Open Source Projects
 
-  <br/>
+| Project | Description |
+| :--- | :--- |
+| **[AgentIQ](https://github.com/charithmadhuranga/agentiq)** | A high-performance framework for building autonomous AI agents. |
+| **[MarketMind-AI](https://github.com/charithmadhuranga/MarketMind-AI)** | AI-driven market intelligence for trend analysis and forecasting. |
+| **[CrewAI-Langgraph-Projects](https://github.com/charithmadhuranga/CrewAI-Langgraph-Projects)** | Production-ready agentic workflows using multi-agent orchestration. |
+| **[AI-Agriculture-Advisor](https://github.com/charithmadhuranga/AI-Agriculture-Advisor)** | Intelligent system for crop disease classification and behavior analysis. |
+| **[eBay Market Analyzer](https://github.com/charithmadhuranga/ebay-products-market-analizer-advanced)** | Advanced scraping and analysis tool for eBay product trends. |
+| **[Agentic AI Shopper](https://github.com/charithmadhuranga/agentic-ai-shopper)** | Autonomous agent designed to find and compare products across stores. |
+| **[StockMarket-AI](https://github.com/charithmadhuranga/StockMarket-AI)** | Analyzing stock sentiment and technical indicators using LLMs. |
+| **[LangChain-DeepSeek-Bot](https://github.com/charithmadhuranga/lanchain-deepseek-sqlitedb-bot)** | SQL-integrated chatbot using DeepSeek for data-driven conversations. |
+| **[LangGraph HN Analyzer](https://github.com/charithmadhuranga/langgraph-hn-analyzer)** | Recursive agent that summarizes top Hacker News discussions. |
+| **[Py-Commander](https://github.com/charithmadhuranga/py-commander)** | Terminal utility for system task management and automation. |
+| **[Wedding Budget Planner AI](https://github.com/charithmadhuranga/wedding-budget-planner-ai)** | AI assistant for optimizing event spending and vendor selection. |
+| **[Filmpisso](https://github.com/charithmadhuranga/filmpisso)** | Comprehensive platform and extensions for movie discovery. |
+| **[Django Shopee](https://github.com/charithmadhuranga/Django-Shopee)** | Modern ecommerce template built with Django and clean UI. |
+| **[StockUp](https://github.com/charithmadhuranga/StockUp)** | Scalable inventory management system for modern businesses. |
+| **[TaskManager](https://github.com/charithmadhuranga/taskmanager)** | Full-stack productivity application for project timeline management. |
+| **[Django LMS](https://github.com/charithmadhuranga/Django-LMS)** | Learning management system with course delivery and student tracking. |
+| **[Chatbot with Memory](https://github.com/charithmadhuranga/chatbot-with-memory)** | implementation of persistent conversational state in AI assistants. |
+| **[Library Management](https://github.com/charithmadhuranga/Library-Management-System)** | Digital cataloging system for book circulation and management. |
 
-  ### 🤖 Agentic AI & Intelligent Systems
-  *Advanced automation using LangGraph, CrewAI, and LlamaIndex.*
-
-  <div align="center">
-    <a href="https://github.com/charithmadhuranga/agentiq"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=agentiq&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/CrewAI-Langgraph-Projects"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=CrewAI-Langgraph-Projects&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/lanchain-deepseek-sqlitedb-bot"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=lanchain-deepseek-sqlitedb-bot&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/chatbot-with-memory"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=chatbot-with-memory&theme=tokyonight" /></a>
-  </div>
-
-  ### 📊 Market Analysis & Ecommerce Tools
-  *AI-driven insights for global marketplaces.*
-
-  <div align="center">
-    <a href="https://github.com/charithmadhuranga/MarketMind-AI"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=MarketMind-AI&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/ebay-products-market-analizer-advanced"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=ebay-products-market-analizer-advanced&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/agentic-ai-shopper"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=agentic-ai-shopper&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/langgraph-hn-analyzer"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=langgraph-hn-analyzer&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/Django-Shopee"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-Shopee&theme=tokyonight" /></a>
-  </div>
-
-  ### 🌿 Industry Specific Solutions (Agri/FinTech)
-  *Real-world AI applications for agriculture and finance.*
-
-  <div align="center">
-    <a href="https://github.com/charithmadhuranga/AI-Agriculture-Advisor"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=AI-Agriculture-Advisor&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/StockMarket-AI"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=StockMarket-AI&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/StockUp"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=StockUp&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/wedding-budget-planner-ai"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=wedding-budget-planner-ai&theme=tokyonight" /></a>
-  </div>
-
-  ### 🛠️ Core Engineering & Management Systems
-  *Full-stack applications and Python utilities.*
-
-  <div align="center">
-    <a href="https://github.com/charithmadhuranga/filmpisso"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=filmpisso&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/filmpisso-extensions"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=filmpisso-extensions&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/py-commander"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=py-commander&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/taskmanager"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=taskmanager&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/Django-LMS"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=Django-LMS&theme=tokyonight" /></a>
-    <a href="https://github.com/charithmadhuranga/Library-Management-System"><img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=charithmadhuranga&repo=Library-Management-System&theme=tokyonight" /></a>
-  </div>
-
-</details>
 ---
 
 ## 📊 Performance & Coding Stats
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=charithmadhuranga&layout=compact&theme=tokyonight&hide_border=true" width="400" />
-  <br/><br/>
+  <br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=nikhuge&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 </div>
 
