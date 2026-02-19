@@ -7,7 +7,7 @@
     <a href="https://app.daily.dev/charithwijesundara"><img src="https://api.daily.dev/devcards/v2/duKyXQzacM0jrokLIS45V.png?type=default&r=jq8" width="300" alt="Dev Card"/></a>
   </p>
 
-  ### 🚀 Software Engineer | AI Agent Architect | IoT & Edge Computing
+  ### 🚀 Software Engineer Specialized in Agentic Ai | IoT & Edge Computing | Ecommerce 
   *Building intelligent systems that bridge the gap between complex data and real-world solutions.*
 
   <div>
