@@ -63,6 +63,7 @@ I specialize in developing innovative solutions at the intersection of **AI Agen
 
 | Project | Description |
 | :--- | :--- |
+| **[CSE-TRADE](https://github.com/charithmadhuranga/CSE-TRADE)** | CSE-TRADE is a premium, high-performance desktop application for monitoring and analyzing stocks on the Colombo Stock Exchange (CSE) |
 | **[AgentIQ](https://github.com/charithmadhuranga/agentiq)** | A high-performance framework for building autonomous AI agents. |
 | **[MarketMind-AI](https://github.com/charithmadhuranga/MarketMind-AI)** | AI-driven market intelligence for trend analysis and forecasting. |
 | **[CrewAI-Langgraph-Projects](https://github.com/charithmadhuranga/CrewAI-Langgraph-Projects)** | Production-ready agentic workflows using multi-agent orchestration. |
