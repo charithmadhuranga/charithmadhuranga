@@ -63,6 +63,7 @@ I specialize in developing innovative solutions at the intersection of **AI Agen
 
 | Project | Description |
 | :--- | :--- |
+| **[Inklia](https://github.com/charithmadhuranga/Inklia)** | Inklia is a beautiful, feature-rich personal journal application built with Flutter. |
 | **[pc-resource-manager](https://github.com/charithmadhuranga/pc-resource-manager)** | A cross-platform desktop application for monitoring system resources (CPU, RAM, Disk, Network) and managing processes, built with GTK4 and PyGObject. |
 | **[Baiscope](https://github.com/charithmadhuranga/Baiscope)** | A desktop media streaming aggregator that brings anime, movies, dramas, donghua, and torrents from multiple streaming sites into one sleek native app with an integrated video player. |
 | **[CSE-TRADE](https://github.com/charithmadhuranga/CSE-TRADE)** | CSE-TRADE is a premium, high-performance desktop application for monitoring and analyzing stocks on the Colombo Stock Exchange (CSE) |
