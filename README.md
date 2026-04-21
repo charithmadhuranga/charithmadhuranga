@@ -63,6 +63,7 @@ I specialize in developing innovative solutions at the intersection of **AI Agen
 
 | Project | Description |
 | :--- | :--- |
+| **[Live-Stock-Tracking-with-kafka](https://github.com/charithmadhuranga/Live-Stock-Tracking-with-kafka)** | A real-time monitoring system for tracking cattle and livestock using GPS-enabled smart belts with temperature monitoring, activity tracking, and geofence breach alerts.. |
 | **[Inklia](https://github.com/charithmadhuranga/Inklia)** | Inklia is a beautiful, feature-rich personal journal application built with Flutter. |
 | **[pc-resource-manager](https://github.com/charithmadhuranga/pc-resource-manager)** | A cross-platform desktop application for monitoring system resources (CPU, RAM, Disk, Network) and managing processes, built with GTK4 and PyGObject. |
 | **[Baiscope](https://github.com/charithmadhuranga/Baiscope)** | A desktop media streaming aggregator that brings anime, movies, dramas, donghua, and torrents from multiple streaming sites into one sleek native app with an integrated video player. |
