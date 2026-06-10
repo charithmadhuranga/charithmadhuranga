@@ -63,6 +63,7 @@ I specialize in developing innovative solutions at the intersection of **AI Agen
 
 | Project | Description |
 | :--- | :--- |
+| **[NodeRed-Desktop](https://github.com/charithmadhuranga/NodeRed-Desktop)** |NodeRed Desktop Application for ALL|
 | **[document-copilot](https://github.com/charithmadhuranga/document-copilot)** |About Research-assistant chatbot for SEC filings|
 | **[Nodejs-IOT](https://github.com/charithmadhuranga/Nodejs-IOT)** | Node.js/Express IoT platform inspired by EdgeX Foundry architecture — northbound/southbound layers, NATS message bus, WebSocket real-time data, SQLite/PostgreSQL/TimescaleDB persistence, and a React dashboard with live sensor charts and actuator controls. |
 | **[Live-Stock-Tracking-with-kafka](https://github.com/charithmadhuranga/Live-Stock-Tracking-with-kafka)** | A real-time monitoring system for tracking cattle and livestock using GPS-enabled smart belts with temperature monitoring, activity tracking, and geofence breach alerts.. |
