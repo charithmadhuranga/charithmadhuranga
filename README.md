@@ -63,6 +63,7 @@ I specialize in developing innovative solutions at the intersection of **AI Agen
 
 | Project | Description |
 | :--- | :--- |
+| **[Inkwell](https://github.com/charithmadhuranga/Inkwell)** |A professional library management system — Go + humo |
 | **[medbridge](https://github.com/charithmadhuranga/medbridge)** |Hospital Management System — Go + Fiber + ogen|
 | **[NodeRed-Desktop](https://github.com/charithmadhuranga/NodeRed-Desktop)** |NodeRed Desktop Application for ALL|
 | **[document-copilot](https://github.com/charithmadhuranga/document-copilot)** |About Research-assistant chatbot for SEC filings|
