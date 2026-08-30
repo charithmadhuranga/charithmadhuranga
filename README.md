@@ -63,6 +63,7 @@ I specialize in developing innovative solutions at the intersection of **AI Agen
 
 | Project | Description |
 | :--- | :--- |
+| **[medbridge](https://github.com/charithmadhuranga/medbridge)** |Hospital Management System — Go + Fiber + ogen|
 | **[NodeRed-Desktop](https://github.com/charithmadhuranga/NodeRed-Desktop)** |NodeRed Desktop Application for ALL|
 | **[document-copilot](https://github.com/charithmadhuranga/document-copilot)** |About Research-assistant chatbot for SEC filings|
 | **[Nodejs-IOT](https://github.com/charithmadhuranga/Nodejs-IOT)** | Node.js/Express IoT platform inspired by EdgeX Foundry architecture — northbound/southbound layers, NATS message bus, WebSocket real-time data, SQLite/PostgreSQL/TimescaleDB persistence, and a React dashboard with live sensor charts and actuator controls. |
