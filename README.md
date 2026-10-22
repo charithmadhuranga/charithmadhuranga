@@ -63,6 +63,8 @@ I specialize in developing innovative solutions at the intersection of **AI Agen
 
 | Project | Description |
 | :--- | :--- |
+| **[PTE](https://github.com/charithmadhuranga/PTE)** |Desktop-first, local-first, multimodal environment for people who think, research, invent and build. Preserves what you were thinking — how an idea started, what evidence changed it, what was tried, what failed, and what should happen next. |
+| **[jetsonpower-gui](https://github.com/charithmadhuranga/jetsonpower-gui)** |A professional Tkinter-based desktop application for managing power modes on NVIDIA Jetson boards using the inbuilt nvpmodel and jetson_clocks CLI tools. |
 | **[Inkwell](https://github.com/charithmadhuranga/Inkwell)** |A professional library management system — Go + humo |
 | **[medbridge](https://github.com/charithmadhuranga/medbridge)** |Hospital Management System — Go + Fiber + ogen|
 | **[NodeRed-Desktop](https://github.com/charithmadhuranga/NodeRed-Desktop)** |NodeRed Desktop Application for ALL|
