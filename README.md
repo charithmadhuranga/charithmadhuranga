@@ -63,6 +63,7 @@ I specialize in developing innovative solutions at the intersection of **AI Agen
 
 | Project | Description |
 | :--- | :--- |
+| **[ESP-CAM](https://github.com/charithmadhuranga/ESP-CAM)** |A private, local-first security camera firmware for the AI-Thinker ESP32-CAM |
 | **[PTE](https://github.com/charithmadhuranga/PTE)** |Desktop-first, local-first, multimodal environment for people who think, research, invent and build. Preserves what you were thinking — how an idea started, what evidence changed it, what was tried, what failed, and what should happen next. |
 | **[jetsonpower-gui](https://github.com/charithmadhuranga/jetsonpower-gui)** |A professional Tkinter-based desktop application for managing power modes on NVIDIA Jetson boards using the inbuilt nvpmodel and jetson_clocks CLI tools. |
 | **[Inkwell](https://github.com/charithmadhuranga/Inkwell)** |A professional library management system — Go + humo |
